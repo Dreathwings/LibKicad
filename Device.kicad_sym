@@ -5018,19 +5018,19 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
-			(at 0.635 2.54 0)
+			(at 0 1.524 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "C_Polarized"
-			(at 0.635 -2.54 0)
+			(at -2.286 0 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.508 0.508)
 				)
 				(justify left)
 			)
@@ -5054,7 +5054,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 0 0 0)
+			(at -3.302 -0.254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6677,19 +6677,19 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "C"
-			(at 0.254 1.778 0)
+			(at 0 1.016 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.635 0.635)
 				)
 				(justify left)
 			)
 		)
 		(property "Value" "C_Small"
-			(at 0.254 -2.032 0)
+			(at -1.27 0 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.381 0.381)
 				)
 				(justify left)
 			)
@@ -6713,7 +6713,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 0)
+			(at -2.54 -1.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
