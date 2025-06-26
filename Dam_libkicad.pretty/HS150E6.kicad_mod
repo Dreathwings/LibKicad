@@ -270,7 +270,7 @@
 		(remove_unused_layers no)
 		(uuid "fbf25a2f-3825-492c-82ad-30c391a6ede6")
 	)
-	(pad "0" thru_hole roundrect
+	(pad "1" thru_hole roundrect
 		(at -24.6 -23.73)
 		(size 15 10)
 		(drill 3.5)
@@ -280,7 +280,7 @@
 		(thermal_bridge_angle 45)
 		(uuid "88449138-8c0a-4a6c-b089-9f2cce5648f6")
 	)
-	(pad "0" thru_hole roundrect
+	(pad "2" thru_hole roundrect
 		(at 90 -23.73)
 		(size 15 10)
 		(drill 3.5)
